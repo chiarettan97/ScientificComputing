@@ -1,0 +1,2 @@
+# file 'sun': sun coordinates
+0 0

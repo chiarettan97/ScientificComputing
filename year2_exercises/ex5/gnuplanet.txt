@@ -1,0 +1,10 @@
+set size ratio -1
+set nokey
+set autos xy
+
+
+plot 'sun.p' w p ps 3 pt 7, \
+'example.txt' u 4:6 w l lt 2
+
+
+
