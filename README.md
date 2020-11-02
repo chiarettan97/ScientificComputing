@@ -1,6 +1,6 @@
 # ScientificComputing
 ## In year3_project: <br /> 
-Investigation into the stability of the equilateral Lagrangian equilibria of the planar, circular, restricted problem of three bodies. In particular, I consider the orbits of Trojan asteroids in the Sun-Jupiter model and implement a Runge-Kutta-Fehlberg integration routine.
+Investigation into the stability of the Lagrangian equilibria of the planar, circular, restricted 3-body problem. In particular, the orbits of Trojan asteroids in the Sun-Jupiter model, implemented with a Runge-Kutta-Fehlberg integration routine.
 
 ## In year3_exercises: <br />
 ### ex1: 
